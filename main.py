@@ -1,5 +1,5 @@
-apple = 12
-ball = 11
+a = 12
+b = 11
 
-print(apple + ball)
+print(a + b)
 
